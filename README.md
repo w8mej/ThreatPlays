@@ -10,26 +10,26 @@ Threat Hunting is rarely repeatable with predictable outcomes.  This is my attem
   
 The playbooks are organized into the following fashion:
 
-# Purpose:
+### Purpose:
 What is the reson for this playbook
 
-# Data Required:
+### Data Required:
 Which messages / event sources are needed
 
-# Collection Considerations:
+### Collection Considerations:
 Notable observations and cares when collecting information
 
-# Analysis Techniques:
+### Analysis Techniques:
 A simple walkthrough the procedure
 
-# Description
+### Description
 Thorough discussion on the playbook's contents.
 
 
-# Other Notes
+### Other Notes
 Miscellanous information in parallel
 
-#More Info 
+### More Info 
 Where may one find additional information?
 
 ## Which tools do the playbooks leverage?
